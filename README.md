@@ -27,5 +27,6 @@ Through these systematic steps, LLM recruiters streamline the recruitment proces
 
 ## Software Requirements
 1. OpenAi gpt 3.5-trubo
-2. all-mpnet-base-v2 (sentence tranformer)
-3. Chroma Db (vector database)
+2. all-mpnet-base-v2 (Sentence Tranformers)
+3. Chroma Db (Vector Database)
+4. LangChain
